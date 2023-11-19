@@ -1,7 +1,7 @@
 # Dynamic Weight Guided Smooth-Sparse Decomposition for Small Target Detection against Strong Vignetting Background
 
 <p align="center">
-  <img width="85%" src="https://github.com/D-IceIce/DW-SSD/Overview.png"/>
+  <img width="85%" src="https://github.com/D-IceIce/DW-SSD/blob/main/Overview.png"/>
 </p>
 
 ## Introduction
