@@ -20,8 +20,9 @@ clc;
 clear;
 close all;
 
+len_of_seq = 6;
 N_k = [];
-for ii = 1:6
+for ii = 1:len_of_seq
 
     img = imread(['images\' num2str(ii) '.bmp']);
     
@@ -33,9 +34,8 @@ for ii = 1:6
     N_k = cat(3,N_k,alg.O-alg.B);
 
     if ii > alg.k
-        figure;
-        subplot(131);imshow(alg.O,[]);title('Original Image')
-        subplot(132);imshow(alg.B,[]);title('Vignetting Backround')
-        subplot(133);imshow(alg.T,[]);title('Small Target')
+        figure;imshow(alg.O,[]);title('Original Image')
+        figure;imshow(alg.B,[]);title('Vignetting Backround')
+        figure;imshow(alg.T,[]);title('Small Target')
     end
 end
