@@ -5,8 +5,7 @@
 </p>
 
 ## Introduction
-
-The code in this repository is the implementation of the methods and algorithms described in the paper "Dynamic Weight Guided Smooth-Sparse Decomposition for Small Target Detection against Strong Vignetting Background," published in IEEE Transactions on Instrumentation and Measurement. For detailed theoretical background and methodology, please refer to the paper.
+The code in this repository is the implementation of the methods and algorithms described in the paper "[Dynamic Weight-Guided Smooth-Sparse Decomposition for Small Target Detection Against Strong Vignetting Background](https://ieeexplore.ieee.org/document/10352345)," by B. Dan et al., published in IEEE Transactions on Instrumentation and Measurement, vol. 73, pp. 1-15, 2024, Art no. 5005015, doi: 10.1109/TIM.2023.3341138. For detailed theoretical background and methodology, please refer to the paper.
 
 
 ## Getting Started
