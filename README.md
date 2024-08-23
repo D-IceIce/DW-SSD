@@ -23,9 +23,6 @@ This will execute the DW-SSD model with the default parameters and data.
 
 The experimental images and data used in this model are part of the research conducted at the Institute of Optics and Electronics, Chinese Academy of Sciences. Please ensure appropriate usage and citation if you are utilizing this model for academic or research purposes.
 
-## Acknowledgements
-
-The code and experimental images provided in this repository are the property of the Institute of Optics and Electronics, Chinese Academy of Sciences. Unauthorized distribution, modification, or commercial use is strictly prohibited.
 
 ## Contact
 
